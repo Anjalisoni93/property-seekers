@@ -37,5 +37,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anjalisoni93/property-seekers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anjalisoni93/property-seekers/issues"
   }
 }
