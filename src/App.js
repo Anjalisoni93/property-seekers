@@ -16,13 +16,9 @@ function App() {
      <Router>
        <Routes>
          <Route path = '/' element={<Index/>}/>
-
-         
          <Route path = '/user' element={<PrivateRoute />}>
           <Route path = '/user' element={<User/>}/>
          </Route>
-
-
          <Route path='/user' element={<User />} />
          <Route path = '/signup' element={<Signin/>}/>
          <Route path = '/login' element={<Login/>}/>
